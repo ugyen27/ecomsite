@@ -1,0 +1,21 @@
+.card-text{ 
+    color: green;
+    font-weight: 750;
+}
+
+
+.list-group{
+    font-size: larger;
+    font-weight:500; 
+    font-family:sans-serif; 
+
+}
+
+
+/* for the detail page */
+#productimage{
+    width: 250px;
+}
+/* for navbar hover effects */
+
+
